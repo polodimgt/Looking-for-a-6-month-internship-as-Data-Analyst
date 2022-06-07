@@ -3,7 +3,7 @@ I’m looking for a work as Data Analyst from September 2022 for 6 months
 I’m currently learning data science and machine learning   
 You can reach me by mail "paul.demgt@gmail.com" or on whatsapp "+33 6 51 94 15 58"   
 
-Here you can find some of my works during my interships :   
+Here you can find some of my works during my internships :   
 - creation and design of an e-commerce website via CMS (oxatis) as webmaster by VA PRESS GROUP during 2 month in 2019   
 https://www.va-editions.fr/   
 - several of my works by Spallian as data analyst during 4 month in 2020    
