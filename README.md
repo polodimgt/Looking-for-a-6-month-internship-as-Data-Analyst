@@ -1,5 +1,5 @@
 Hi, I’m Paul de Magnitot   
-I’m looking for a work as Data Analyst from September 2022 for 6 months   
+I’m looking for a work as data analyst/data scientist from September 2022 for 6 months   
 I’m currently learning data science and machine learning   
 You can reach me by mail "paul.demgt@gmail.com" or on whatsapp "+33 6 51 94 15 58"   
 
