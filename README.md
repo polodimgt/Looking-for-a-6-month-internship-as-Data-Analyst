@@ -12,5 +12,9 @@ https://external.spallian.com/stat_dashboard.html?name=covid_precarite&token_id=
 https://external.spallian.com/stat_dashboard.html?name=feuilleton&token_id=ExpertsOD_cde9c1a1-2dcd-e9c0-429b-696786428b8b&numero_episode=1 (group project)  
 https://external.spallian.com/stat_dashboard.html?name=parcoursup&token_id=parcoursup_0f28ef92-5bcd-1cf4-886e-17f764c42089 (group project)
 
+You can also find a recommandation letter from Spallian on my github folder. 
+I look forward to hearing from you.
+
+Paul
 
 
