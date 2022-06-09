@@ -1,7 +1,7 @@
 Hi, I’m Paul de Magnitot   
 I’m looking for a work as data analyst/data scientist from September 2022 for 6 months   
 I’m currently learning data science and machine learning   
-You can reach me by mail "paul.demgt@gmail.com" or on whatsapp "+33 6 51 94 15 58"   
+You can reach me by mail "paul.demgt@gmail.com" or on whatsapp "06 51 94 15 58"   
 
 Here you can find some of my works projects done during my internships :   
 - creation and design of an e-commerce website via CMS (oxatis) as webmaster by VA PRESS GROUP during 2 month in 2019   
